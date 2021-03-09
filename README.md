@@ -4,8 +4,8 @@ This is segmentation method with unsupervised learning.
 The base anomaly detection method is following paper.  
 [Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection](https://arxiv.org/abs/2005.14140)
 
-And I add segmentation model with this paper.
-The detail is [here]()(Japanese).
+And I added segmentation model with this paper.  
+The detail is [here](https://qiita.com/shinmura0/items/5f2c363812f7cdcc8771)(Japanese).
 
 ## Result
 + Detection AUC  
