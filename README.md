@@ -1,14 +1,14 @@
 # EfficientNet AD Segmentation
 This is segmentation method with unsupervised learning.
 
-The base anomaly detection method is following paper.
+The base anomaly detection method is following paper.  
 [Modeling the Distribution of Normal Data in Pre-Trained Deep Features for Anomaly Detection](https://arxiv.org/abs/2005.14140)
 
 And I add segmentation model with this paper.
 The detail is [here]()(Japanese).
 
 ## Result
-+ Detection AUC
++ Detection AUC  
 ![auc.png](https://github.com/shinmura0/EfficientNet_AD_Segmentation/blob/main/images/auc.png)
 
 + Segmentation result
